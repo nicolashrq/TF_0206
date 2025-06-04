@@ -80,6 +80,6 @@ README.md
 
 imagens/
 
-![logs](imagens/logs.jpeg)
+![logs](imagens/logs.jpg)
 
-![Tela do Nginx no navegador](imagens/siteNginx.jpeg)
+![Tela do Nginx no navegador](imagens/siteNginx.jpg)
